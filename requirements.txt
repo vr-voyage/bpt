@@ -28,4 +28,4 @@ pytorch_lightning
 mesh2sdf
 numpy==1.26.4
 point-cloud-utils
-transformers==4.50.0
+transformers>=4.50.0
